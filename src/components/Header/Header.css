@@ -1,0 +1,21 @@
+header{
+    background: #2A2A3B;
+    color: #FFD700;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+    font-size: 30px;
+    font-family: sans-serif;
+    
+
+ 
+}
+header h1 {
+    color: #FFD700;
+}
+
+
+#logo-header{
+    height: 200px;
+}

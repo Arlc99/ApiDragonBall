@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  
+}
+
+#div-header{
+  background-color: black;    
+}
+
+#menu{
+  position:sticky;
+  top: 30px;
+}
